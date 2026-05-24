@@ -1,8 +1,14 @@
 # Node.js Complete Topics List (Beginner to Advanced)
 
-This guide covers Node.js from introduction to advanced backend architecture, with definitions, code snippets, advantages, disadvantages, and real-world use cases for each topic.
+## Who this guide is for
+This guide is for beginners learning backend development with JavaScript and Node.js.
+It explains core Node.js concepts, project setup, modules, and use cases clearly.
 
----
+## What you'll learn
+- What Node.js is and when to use it
+- How the Node.js runtime works
+- Basics of npm, modules, and asynchronous programming
+
 
 # 1. Introduction to Node.js
 

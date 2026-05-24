@@ -1,8 +1,15 @@
 # JavaScript Roadmap: Beginner to Advanced
 
-This file is a structured end-to-end JavaScript roadmap covering browser development, backend development, tooling, ecosystem topics, interview prep, and practical learning order.
+## Who this guide is for
+This guide is for learners starting with JavaScript and moving toward more advanced web development.
+It explains the concepts step by step, with simple examples and clear definitions.
 
----
+## What you'll learn
+- JavaScript basics like variables, functions, and arrays
+- How control flow and data structures work
+- Key browser APIs and modern programming features
+- How to prepare for interviews with common questions
+
 
 # 1. JavaScript Fundamentals
 

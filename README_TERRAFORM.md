@@ -1,10 +1,14 @@
 # Terraform Guide: Basics to Advanced
 
-## Overview
-This document covers Terraform from fundamentals to advanced patterns, using a complex real-world scenario and deployments across AWS and Azure.
-It explains multi-environment management, stage promotion, shared module strategy, cookiecutter-style values, state backend design, rollback and revert practices, testing, security, drift detection, and operational best practices.
+## Who this guide is for
+This guide is for beginners who want to use Terraform to manage cloud infrastructure safely.
+It explains core Terraform concepts, workflows, and good practices in simple terms.
 
----
+## What you'll learn
+- What Infrastructure as Code means
+- How Terraform configuration files are structured
+- How to deploy and manage multiple environments
+
 
 ## Topics List
 

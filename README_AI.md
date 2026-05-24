@@ -1,19 +1,15 @@
 # AI and Agentic Systems Guide
 
-## Overview
-This document covers foundational and advanced concepts for:
-- Artificial Intelligence (AI)
-- Agentic AI
-- AI Agents
-- AIOps
+## Who this guide is for
+This guide is for new learners who want to understand AI, smart agents, and operations in plain language.
+It explains key ideas, workflows, and examples using beginner-friendly terms.
 
-Each section includes:
-- definitions and key concepts
-- detailed workflows and examples
-- real-world scenarios
-- interview questions with suggested answers
+## What you'll learn
+- What AI means and how it works
+- What agentic AI and AI agents do
+- How AI is used in real business examples
+- Practical steps to build simple AI systems
 
----
 
 ## 1. Artificial Intelligence (AI)
 

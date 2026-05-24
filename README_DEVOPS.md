@@ -1,18 +1,15 @@
 # Complete DevOps Guide for Azure, Kubernetes, Splunk, Grafana, Docker, GitHub Actions, and JFrog
 
-## Overview
-This document provides a complete DevOps reference for modern cloud-native applications.
-It uses a real-time example of a React frontend and a Node.js backend, and covers:
-- Azure platform services
-- Docker containerization
-- Kubernetes deployment
-- GitHub Actions CI/CD with multi-environment pipelines
-- Artifact management with JFrog Artifactory
-- Monitoring with Grafana and logging with Splunk
-- Infrastructure and environment management
-- Security, testing, QA, and release practices
+## Who this guide is for
+This guide is for beginners who want to learn how modern DevOps practices work in real cloud applications.
+It explains the tools, concepts, and processes in an approachable way.
 
----
+## What you'll learn
+- What DevOps means and why it matters
+- How infrastructure, code, and automation fit together
+- Key DevOps tools and cloud services
+- A sample deployment architecture for modern apps
+
 
 ## 1. Real-Time Example Application
 

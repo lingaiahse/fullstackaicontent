@@ -1,8 +1,14 @@
 # Next.js Complete Topics List (Beginner to Advanced)
 
-This guide covers Next.js from introduction to advanced concepts, including project setup, routing, rendering strategies, API routes, data fetching, deployment, security, and interview preparation.
+## Who this guide is for
+This guide is for new web developers learning Next.js and modern React frameworks.
+It explains features, routing, rendering options, and deployment in a friendly way.
 
----
+## What you'll learn
+- Why Next.js is useful for web applications
+- How routing and page rendering work
+- How to build, configure, and deploy a Next.js app
+
 
 # 1. Introduction to Next.js
 

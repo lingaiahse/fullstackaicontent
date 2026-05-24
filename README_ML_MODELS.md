@@ -1,8 +1,14 @@
 # Machine Learning Model Examples
 
-This guide covers example models for banking, healthcare, image classification, and video analysis. Each section includes a code snippet and an explanation of how the model works.
+## Who this guide is for
+This guide is for beginners who want to see simple machine learning examples for finance, healthcare, images, and video.
+It explains what each model does, why it is used, and how the code works.
 
----
+## What you'll learn
+- Basic ML problem types and model choices
+- How to build and evaluate tabular, image, and video models
+- How to think about model training and prediction
+
 
 # 1. Banking: Credit Risk Classification
 

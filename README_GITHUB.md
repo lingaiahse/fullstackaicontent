@@ -1,8 +1,15 @@
 # GitHub and GitHub Actions Overview for Development
 
-This guide explains GitHub fundamentals, the GitHub portal, collaboration workflows, and GitHub Actions for CI/CD and automation.
+## Who this guide is for
+If you are new to GitHub, version control, and CI/CD, this guide is written for you.
+It explains the basics of repositories, branches, pull requests, and automation.
 
----
+## What you'll learn
+- How GitHub works and why it is useful
+- How to create and manage repositories
+- Collaboration workflows like pull requests and issues
+- Intro to GitHub Actions for continuous integration
+
 
 # 1. GitHub Overview
 
