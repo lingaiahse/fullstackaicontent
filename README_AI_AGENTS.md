@@ -1,8 +1,15 @@
 # AI Agents, Agentic AI, LangGraph, LangChain, and RAG
 
-This guide explains agentic AI concepts, modern LLM orchestration frameworks, retrieval-augmented generation (RAG), and deployment-ready examples for real-world scenarios.
+## Who this guide is for
+If you are new to AI applications and want to learn how agents and retrieval systems work, this guide is for you.
+It explains the core ideas, tools, and real examples in an easy-to-follow way.
 
----
+## What you'll learn
+- Basic agent concepts and how they differ from regular AI
+- What LangChain and LangGraph do
+- What Retrieval-Augmented Generation (RAG) means
+- How to build and deploy simple AI services
+
 
 ## 1. Agentic AI and AI Agents
 

@@ -1,20 +1,15 @@
 # AWS Services Guide for Real-Time Applications
 
-## Overview
-This guide explains AWS services used for modern application development, including web app hosting, API management, authentication and authorization, key management, multi-environment deployments, Terraform provisioning, and DevOps automation.
+## Who this guide is for
+This guide is for people new to AWS who want to understand core services used in modern applications.
+It explains services clearly and shows how they fit together in real deployments.
 
-It covers:
-- AWS Console navigation
-- web and API hosting services
-- authentication and authorization
-- key management
-- environment management
-- Terraform for AWS infrastructure
-- AWS DevOps services
-- additional AWS services for production
-- a real-time application architecture example
+## What you'll learn
+- How to navigate the AWS console
+- What each service does and when to use it
+- Beginner-friendly steps for web hosting, APIs, identity, and security
+- How AWS works in a real application architecture
 
----
 
 ## AWS Console Navigation
 

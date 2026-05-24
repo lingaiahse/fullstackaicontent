@@ -1,24 +1,14 @@
 # Full Stack Content Guide
 
-## Overview
-This document is designed for developers, data scientists, MLOps engineers, QA professionals, and cloud architects. It provides step-by-step explanations, real-time examples, and interview-ready material across:
+## Who this guide is for
+This guide is written for freshers and entry-level learners who want a simple introduction to Machine Learning, MLOps, Terraform, Azure DevOps, QA, and observability.
+It explains the basics clearly and includes examples so you can learn the key ideas step by step.
 
-- Machine Learning (ML)
-- MLOps
-- Terraform
-- Azure DevOps
-- Quality Assurance (QA)
-- Observability
-- Monitoring
-- Testing
+## How to use this guide
+- Read the sections in order if you are new.
+- Use the examples to understand the concepts.
+- Refer back to the summary points whenever you need a quick reminder.
 
-Each topic includes:
-- basic concepts
-- advanced concepts
-- workflows and examples
-- interview questions with suggested answers
-
----
 
 ## 1. Machine Learning (ML)
 

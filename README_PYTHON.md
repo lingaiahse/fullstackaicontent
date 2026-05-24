@@ -1,8 +1,14 @@
 # Python Complete Topics List (Beginner to Advanced)
 
-This guide covers Python fundamentals, advanced concepts, backend development with Flask and FastAPI, and best practices for learning and building production-ready applications.
+## Who this guide is for
+This guide is for beginners learning Python for automation, data, and backend development.
+It explains Python concepts in simple language with examples you can try yourself.
 
----
+## What you'll learn
+- Python basics like variables, control flow, and functions
+- How to run scripts and use the interpreter
+- Core features that make Python easy to learn
+
 
 # 1. Python Introduction
 

@@ -1,23 +1,14 @@
 # Senior AI Platform Engineer / Full Stack AI Engineer Interview Guide
 
-This document is a comprehensive question-and-answer reference for senior engineers working across:
-- Azure Cloud
-- Terraform / IaC
-- Python / FastAPI
-- React / Next.js
-- LangChain / LangGraph
-- RAG systems
-- DevOps / MLOps / AIOps
-- QA / Security
-- Monitoring & Observability
-- CI/CD
-- Multi-environment deployments
-- Distributed systems
-- Production AI applications
+## Who this guide is for
+This guide is for beginners and early-career engineers preparing for AI, cloud, and full-stack interview questions.
+It provides simple answers and explains the reasoning behind each response.
 
-Use this guide for hiring interviews, technical screening, panel rounds, architecture discussions, and leadership evaluation.
+## How to use this guide
+- Read questions and suggested answers to learn the key ideas.
+- Use the follow-up notes to understand why each topic matters.
+- Practice explaining the answers in your own words.
 
----
 
 ## 1. Architecture & System Design
 

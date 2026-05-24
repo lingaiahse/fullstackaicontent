@@ -1,19 +1,15 @@
 # Azure Services Guide for Real-Time Applications
 
-## Overview
-This guide reviews Azure services for building modern applications, including web apps, APIs, authentication, authorization, key management, multi-environment deployments, Terraform infrastructure provisioning, and Azure DevOps pipelines.
+## Who this guide is for
+This guide is for people new to Azure who want to understand cloud services used in modern applications.
+It explains services clearly and shows how they fit together in real deployments.
 
-It covers:
-- Azure Web App and Azure Functions
-- API Management
-- Authentication and Authorization
-- Key Management
-- Multi-environment management
-- Terraform for infrastructure provisioning
-- Azure DevOps in detail
-- Other key Azure services used in production
+## What you'll learn
+- How to navigate the Azure portal
+- What each Azure service does and when to use it
+- Beginner-friendly steps for apps, APIs, identity, and security
+- How Azure works in a real application architecture
 
----
 
 ## Azure Portal Navigation
 

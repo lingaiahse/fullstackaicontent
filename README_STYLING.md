@@ -1,8 +1,14 @@
 # Styling Complete Topics List (CSS, Tailwind CSS, Material UI)
 
-This guide explains CSS, Tailwind CSS, and Material UI from beginner to advanced, with clear definitions and code examples for each topic.
+## Who this guide is for
+This guide is for beginners who want to learn how to style web pages clearly and effectively.
+It explains CSS basics, modern utility-first styling, and component libraries.
 
----
+## What you'll learn
+- Core CSS concepts and how the box model works
+- How to use classes, layouts, and typography
+- When to choose Tailwind CSS or Material UI
+
 
 # CSS Topics List
 
